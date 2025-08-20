@@ -1,3 +1,5 @@
+package day21;
+
 import java.util.Scanner;
 //поиск максимального и минимального элемента массива
 public class ArrayMinMax {

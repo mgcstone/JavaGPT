@@ -1,3 +1,5 @@
+package day21;
+
 import java.util.Scanner;
 //Найти сумму всех элементов массива
 public class ArraySum {

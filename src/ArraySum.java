@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Найти сумму всех элементов массива
 public class ArraySum {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

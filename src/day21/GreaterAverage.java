@@ -1,7 +1,7 @@
 package day21;
 
 import java.util.Scanner;
-
+//сколько элементов массива больше среднего арифметического
 public class GreaterAverage {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
